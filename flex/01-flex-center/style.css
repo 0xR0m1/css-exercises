@@ -1,4 +1,11 @@
 .container {
+
+  /* my changes*/
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* my changes*/
+  
   background: dodgerblue;
   border: 4px solid midnightblue;
   width: 400px;
